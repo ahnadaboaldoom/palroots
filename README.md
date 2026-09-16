@@ -132,3 +132,34 @@ PalRoots-Marketplace/
 │   └── .env.example
 │
 └── README.md
+
+---
+
+## 👨‍💻 Developer
+
+**Ahmad Odeh**
+
+Junior Full Stack Developer
+
+- GitHub: [@ahnadaboaldoom](https://github.com/ahnadaboaldoom)
+- Project: [PalRoots](https://github.com/ahnadaboaldoom/palroots)
+
+---
+
+## 🎓 Academic Project
+
+**Project:** PalRoots – Palestinian Products Marketplace
+
+**Type:** Graduation Project
+
+**Program:** Diploma in Computer Application Programming and Web Pages
+
+**Institution:** Palestine Technical University – Kadoorie (PTUK)
+
+**Year:** 2026
+
+---
+
+## 📄 License
+
+This project was developed for educational and portfolio purposes.
